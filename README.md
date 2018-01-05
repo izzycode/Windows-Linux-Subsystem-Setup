@@ -22,7 +22,7 @@ Enable the "Windows Subsystem for Linux" optional feature and reboot.
 Voilà! You have a Linux Subsystem on Windows 👍🏼
 
 ## Things to keep in mind
-- Everytime we mention _Command Line_ it refers to the `bash` enabled PowerShell.
+- Every time we mention _Command Line_ it refers to the `bash` enabled PowerShell.
     ![Not PowerShell]()
     ![Yes bash enabled PowerShell]()
 
